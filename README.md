@@ -14,6 +14,8 @@ This repository contains my assignments
 
 [Assignment5](https://github.com/ThimoLevels/assignments/blob/master/assignment5.ipynb)
 
+[Final Python Assignment](https://github.com/ThimoLevels/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
 
+[Final R Assignment]()
 
 
