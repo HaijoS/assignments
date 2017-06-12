@@ -16,4 +16,4 @@ This repository contains my assignments
 
 [Final R assignment](https://github.com/ThimoLevels/assignments/blob/master/OECD_R_exam.ipynb)
 
-[Final Python assignment](https://github.com/ThimoLevels/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
